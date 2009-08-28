@@ -1,0 +1,14 @@
+kkjwgs84.rb
+===========
+
+Ruby port of Olli Lammi's KKJWGS84.py (v0.4a), which in turn was 
+originally extracted from Viestikallio's PHP source.
+
+Lammi's KKJWGS84.py: http://positio.rista.net/en/pys60gps/ (GPL2, 
+making this port GPL too)
+Viestikallio's kkj-wgs84.php: 
+http://www.viestikallio.fi/tools/kkj-wgs84.php (License unknown)
+
+You can build documentation by running YARD. Simple tests are provided 
+in the test/ directory.
+
